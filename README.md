@@ -1,2 +1,3 @@
 # LaboratoareHTTP_CSS_JS
-Repository pentru site-urile făcute @laboratoarele de programare web client side
+ pentru site-urile făcute @laboratoarele de programare web client side
+Text nou mai mult sau mai putin
