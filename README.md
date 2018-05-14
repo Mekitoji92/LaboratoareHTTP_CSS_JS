@@ -34,9 +34,20 @@
 <h6> Stiri mici mici </h6>
 <p align ="center"> Paragraf nou </p>
 
+ <select multiple size="5">
+  <option value="volvo">God of War</option>
+  <option value="saab" selected>World of Warcraft</option>
+  <option value="opel">Fortnite</option>
+  <option value="audi">PlayersUBG</option>
+  <option value="audi">RainbowSiege</option>
+  <option value="audi">Starcraft</option>
+  <option value="audi">Diablo</option>
+</select> 
+
+
  <form action="/action_page.php">
-  Nume  : <input type="text" name="fullname"><br>
-  E-mail: <input type="text" name="email"><br>
+  Nume  : <input type="text" name="fullname" maxlength="15" value="Dohn Joe"><br>
+  E-mail: <input type="text" name="email" value="@gmail.com"><br>
   <input type="submit" value="Submit">
 </form> 
 
